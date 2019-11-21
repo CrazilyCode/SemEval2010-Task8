@@ -31,4 +31,5 @@ two tools for SemEval-2010 Task #8
 - official output file format checker : semeval2010_task8_format_checker.pl
 - official scorer for SemEval-2010 Task #8 : semeval2010_task8_scorer-v1.2.pl
 
-original.zip is the original data from the official website http://semeval2.fbk.eu/semeval2.php
+##original.zip  
+the original data from the official website http://semeval2.fbk.eu/semeval2.php
